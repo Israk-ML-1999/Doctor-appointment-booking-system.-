@@ -1,0 +1,103 @@
+{
+    "doctors": [
+        {
+            "doctor_name": "Dr. Ayesha Rahman",
+            "department": "Cardiology",
+            "available_start": "09:00",
+            "available_end": "17:00",
+            "off_day": "Friday"
+        },
+        {
+            "doctor_name": "Dr. Mohammad Ali",
+            "department": "Dermatology",
+            "available_start": "10:00",
+            "available_end": "18:00",
+            "off_day": "Saturday"
+        },
+        {
+            "doctor_name": "Dr. Fatima Khan",
+            "department": "Emergency Medicine",
+            "available_start": "08:00",
+            "available_end": "20:00",
+            "off_day": "Sunday"
+        },
+        {
+            "doctor_name": "Dr. Ahmed Hassan",
+            "department": "Family Medicine",
+            "available_start": "09:00",
+            "available_end": "17:00",
+            "off_day": "Friday"
+        },
+        {
+            "doctor_name": "Dr. Sarah Ahmed",
+            "department": "Gastroenterology",
+            "available_start": "10:00",
+            "available_end": "16:00",
+            "off_day": "Saturday"
+        },
+        {
+            "doctor_name": "Dr. Omar Rahman",
+            "department": "Nephrology",
+            "available_start": "09:00",
+            "available_end": "15:00",
+            "off_day": "Sunday"
+        },
+        {
+            "doctor_name": "Dr. Nusrat Jahan",
+            "department": "Neurology",
+            "available_start": "08:00",
+            "available_end": "16:00",
+            "off_day": "Friday"
+        },
+        {
+            "doctor_name": "Dr. Karim Uddin",
+            "department": "Oncology",
+            "available_start": "09:00",
+            "available_end": "17:00",
+            "off_day": "Saturday"
+        },
+        {
+            "doctor_name": "Dr. Rina Begum",
+            "department": "Ophthalmology",
+            "available_start": "10:00",
+            "available_end": "18:00",
+            "off_day": "Sunday"
+        },
+        {
+            "doctor_name": "Dr. Hasan Mahmud",
+            "department": "Orthopedics",
+            "available_start": "08:00",
+            "available_end": "16:00",
+            "off_day": "Friday"
+        },
+        {
+            "doctor_name": "Dr. Laila Akter",
+            "department": "Pathology",
+            "available_start": "09:00",
+            "available_end": "15:00",
+            "off_day": "Saturday"
+        },
+        {
+            "doctor_name": "Dr. Tariq Islam",
+            "department": "Pediatrics",
+            "available_start": "09:00",
+            "available_end": "17:00",
+            "off_day": "Sunday"
+        },
+        {
+            "doctor_name": "Dr. Nasreen Sultana",
+            "department": "Radiology",
+            "available_start": "08:00",
+            "available_end": "16:00",
+            "off_day": "Friday"
+        },
+        {
+            "doctor_name": "Dr. Rafiq Ahmed",
+            "department": "Surgery",
+            "available_start": "07:00",
+            "available_end": "19:00",
+            "off_day": "Saturday"
+        }
+    ],
+    "bookings": []
+}
