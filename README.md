@@ -1,6 +1,6 @@
 # Hospital Doctor Appointment Booking System
 
-An AI-powered appointment booking system with conversational interface built using FastAPI, LangGraph, OpenAI, and Streamlit.
+An AI-powered appointment booking system with conversational interface built using FastAPI, Langchain, OpenAI, and Streamlit.
 
 ## Features
 
